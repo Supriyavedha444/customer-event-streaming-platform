@@ -1,1 +1,0 @@
-# customer-event-streaming-platform
